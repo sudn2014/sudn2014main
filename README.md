@@ -12,7 +12,7 @@ Hi there my name is Saeed Amini
 • Advanced Python Programming certified
 
 💻  I’m Currently Learning Python Programming and Django framework heading towards AI and ML , ... <br/>
-📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/saeedamini/) for more details about me. 
+📄 &nbsp;Please take a look at my [LinkedIn](https://www.linkedin.com/in/saeedamini/) for more details about me. 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sudn2014&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudn2014&theme=buefy&hide_border=false)<br/>
